@@ -1,0 +1,2240 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.frame-X2u {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-X2u .banner-MXj {
+  box-sizing: border-box;
+  padding: 2.6rem 1.4rem;
+  width: 100%;
+  height: 9rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM {
+  width: 131.108rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlogobar-9ru {
+  margin-right: 46.745rem;
+  width: 31.755rem;
+  height: 3.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH {
+  margin: 0rem 5.981rem 0.2rem 0rem;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-Rxq {
+  margin-right: 2.98rem;
+  width: 6.006rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-Rxq .news-site-jc9 {
+  max-width: 4.1rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-D1X {
+  margin: 0.85rem 3.153rem 0.85rem 0rem;
+  width: 3.4rem;
+  height: calc(100% - 1.7rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-D1X .dates-vRj {
+  max-width: 3.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-Fiu {
+  width: 6.865rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-vWH .link-Fiu .downloads-p1K {
+  max-width: 6.2rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-XRX {
+  margin-right: 3.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-XRX .link-de-G8D {
+  margin: 0rem 1.714rem 0.2rem 0rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headerlinks-XRX .link-jGh {
+  width: 4.153rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .divgrp-headersearch-Cvy {
+  margin-right: 2.3rem;
+  width: 4.1rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .menu-KVo {
+  margin: 0rem 0.956rem 0.1rem 0rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .banner-MXj .divgrp-headerrow1-eQM .divgrp-headerlinksection-4U5 .button-menu-E6y {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 {
+  box-sizing: border-box;
+  padding-top: 0.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw {
+  margin-bottom: 7.475rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD {
+  margin-bottom: 11.35rem;
+  width: 100%;
+  height: 67.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo {
+  width: 192rem;
+  height: 100%;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/bmwgrouppridemonthkvnewssitecleanjpg-bg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .pseudo-wQh {
+  width: 192rem;
+  height: 40.319rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, rgba(68, 68, 68, 0) 100%, #494949 0%);
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .divgrp-hlteaser-termin-contents-2S9 {
+  width: 37.8rem;
+  height: 13.169rem;
+  position: absolute;
+  left: 23.85rem;
+  top: 2.95rem;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .divgrp-hlteaser-termin-contents-2S9 .heading-2-the-power-of-diversity-kN9 {
+  margin-bottom: 3.969rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .divgrp-hlteaser-termin-contents-2S9 .link-rRB {
+  box-sizing: border-box;
+  padding: 1.6rem 1.3rem 1.6rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d6d6d6;
+  border-radius: 0.3rem;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .divgrp-hlteaser-termin-contents-2S9 .link-rRB .learn-more-BCZ {
+  margin-right: 21.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .divgrp-hlteaser-termin-contents-2S9 .link-rRB .pseudo-mask-group-Vyw {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divslick-list-3aD .tabpanel-nXo .tabpanel-nXo-bg {
+  width: 192rem;
+  height: 67.2rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:9ad1943322427cdaece3c6d7e542590f3e25a491');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP {
+  margin: 0rem 1rem 0rem 2rem;
+  width: calc(100% - 3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .heading-2-be-inspired-Fbj {
+  margin: 0rem 0rem 0.35rem 7.6rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb {
+  margin-bottom: 10.569rem;
+  height: 56.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-HYR {
+  margin-right: 0.4rem;
+  width: 47.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.5rem #e96d0c;
+  box-sizing: border-box;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-HYR .divgrp-gradient-q49 {
+  width: 100%;
+  height: 56rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/bmwkeyvisualreportohnelogo720png-bg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-HYR .divgrp-gradient-q49 .pseudo-nVB {
+  width: 47.1rem;
+  height: 34rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, rgba(68, 68, 68, 0) 100%, #494949 0%);
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-HYR .divgrp-gradient-q49 .quarterly-statement-to-31-march-2023-7GZ {
+  width: 30.2rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 2.8rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2833333015;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-HYR .divgrp-gradient-q49 .divgrp-gradient-q49-bg {
+  width: 47.1rem;
+  height: 56rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:837e9c1ef380cd42947646cdcb3771db967d0cde');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-7fs {
+  margin-right: 0.6rem;
+  width: 46.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.5rem #fad022;
+  box-sizing: border-box;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-7fs .divgrp-gradient-4LD {
+  width: 56rem;
+  height: 56rem;
+  position: relative;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-7fs .divgrp-gradient-4LD .x720nachhaltigkeitjpg-1WM {
+  width: 46.8rem;
+  height: 56rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/x720nachhaltigkeitjpg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-7fs .divgrp-gradient-4LD .pseudo-vNR {
+  width: 56rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, rgba(68, 68, 68, 0) 100%, #494949 0%);
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-7fs .divgrp-gradient-4LD .figcaption-we-make-the-bmw-group-sustainable-T7T {
+  width: 28.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 2.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2319999695;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-uVF {
+  width: 45.5rem;
+  height: 56rem;
+  border: solid 0.5rem #e96d0c;
+  box-sizing: border-box;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-uVF .divgrp-gradient-4d3 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/key-visual720x720v01jpg-bg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-uVF .divgrp-gradient-4d3 .pseudo-2Jy {
+  width: 45.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, rgba(68, 68, 68, 0) 100%, #494949 0%);
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-uVF .divgrp-gradient-4d3 .figcaption-bmw-group-annual-conference-2023-Y2R {
+  width: 43.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.15rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2319999695;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-column-control-kHb .link-figure-uVF .divgrp-gradient-4d3 .divgrp-gradient-4d3-bg {
+  width: 45.5rem;
+  height: 56rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:8804176964070250ef424b64d81e7ff01d37b982');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .heading-2-our-current-topics-8FX {
+  margin: 0rem 0rem 0.331rem 7.6rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo {
+  margin: 0rem 0rem 7.725rem 7.2rem;
+  width: 133.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 {
+  margin: 0rem 6.2rem 21.6rem 1.6rem;
+  width: calc(100% - 7.8rem);
+  height: 59rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .p90505143jpg-FzM {
+  margin-right: 6rem;
+  width: 73.3rem;
+  height: 59rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/p90505143jpg.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 {
+  margin: 20.45rem 0rem 19.279rem 0rem;
+  width: 46.7rem;
+  height: calc(100% - 39.729rem);
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP {
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .electromobility-1s3 {
+  margin: 0rem 1.8rem 0.1rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .spangrp-newsarticle-delimiter-X4h {
+  margin: 0.847rem 2.033rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .spangrp-newsarticle-delimiter-X4h .item--2GM {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .spangrp-newsarticle-delimiter-X4h .item-24052023-fKK {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .item--ahB {
+  margin: 0rem 0.377rem 1.053rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .spangrp-newsarticle-reading-time-icon-mask-group-hWu {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .divgrp-newsarticle-overline-5yP .min-opq {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .auto-group-gy7w-8cD {
+  width: 100%;
+  height: 13.818rem;
+  position: relative;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .auto-group-gy7w-8cD .excellent-through-and-through-5nM {
+  width: 46.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2137931298;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-Ya9 .divgrp-newsteaser-textpart-a13 .auto-group-gy7w-8cD .more-comfort-entertainment-and-driving-pleasure-the-eighth-generation-of-the-bmw-5-series-makes-its-market-debut-in-october-more-than-almost-any-other-car-it-stands-for-the-success-of-the-brand-nRs {
+  width: 46.7rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 2.818rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R {
+  margin: 0rem 0.6rem 6.7rem 0rem;
+  height: 56.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP {
+  margin-right: 3.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .bmwgrouppridemonthkv16x9linkedinjpg-Fyf {
+  margin-bottom: 1.8rem;
+  width: 43rem;
+  height: 31.5rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/bmwgrouppridemonthkv16x9linkedinjpg.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX {
+  width: 42.9rem;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR {
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .company-eW1 {
+  margin-right: 1.447rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .spangrp-newsarticle-delimiter-MfK {
+  margin: 0rem 1.402rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .spangrp-newsarticle-delimiter-MfK .item--Uzq {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .spangrp-newsarticle-delimiter-MfK .item-23052023-p37 {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .item--Ln9 {
+  margin: 0.05rem 0.193rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .spangrp-newsarticle-reading-time-icon-mask-group-4CM {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .divgrp-newsarticle-overline-uYR .min-z61 {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .auto-group-yq37-vEZ {
+  width: 100%;
+  height: 13.8rem;
+  position: relative;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .auto-group-yq37-vEZ .the-power-of-diversity-57T {
+  width: 30.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-WFP .divgrp-newsteaser-textpart-kfX .auto-group-yq37-vEZ .diversity-equity-and-inclusion-are-an-integral-part-of-hr-strategy-in-the-bmw-group-putting-diversity-into-practice-is-becoming-one-of-our-key-success-factors-and-makes-us-attractive-as-an-employer-NsF {
+  width: 42.9rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F {
+  margin-right: 1.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .volt3111jpg-xKf {
+  margin-bottom: 0.2rem;
+  width: 41.6rem;
+  height: 31.3rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/volt3111jpg.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy {
+  margin-left: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .electromobility-9uw {
+  margin-right: 2.577rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .spangrp-newsarticle-delimiter-UhK {
+  margin: 0rem 1.261rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .spangrp-newsarticle-delimiter-UhK .item--D97 {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .spangrp-newsarticle-delimiter-UhK .item-18052023-Kxq {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .item--f17 {
+  margin: 0.05rem 0.193rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .spangrp-newsarticle-reading-time-icon-mask-group-ynV {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .divgrp-newsarticle-overline-p6y .min-hyP {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .worldwide-preparations-for-the-neue-klasse-3nM {
+  margin-bottom: 0.3rem;
+  max-width: 38.9rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-Q3F .divgrp-newsteaser-textpart-fUy .production-of-high-performance-high-voltage-batteries-is-crucial-for-a-successful-transformation-to-electromobility-the-bmw-group-is-preparing-its-production-sites-for-the-neue-klasse-x8d {
+  max-width: 37.6rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 {
+  width: 43.5rem;
+  height: 44.55rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .p90503022edituebersichtsseitejpeg-jYh {
+  width: 43.5rem;
+  height: 31.3rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/p90503022edituebersichtsseitejpeg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo {
+  width: 40.5rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 30.45rem;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy {
+  margin-bottom: 4.15rem;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .design-JER {
+  margin: 0rem 1.184rem 0.1rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .spangrp-newsarticle-delimiter-ows {
+  margin: 0.75rem 0.948rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .spangrp-newsarticle-delimiter-ows .item--9Vw {
+  margin-right: 0.568rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .spangrp-newsarticle-delimiter-ows .item-10052023-swj {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .item--1o3 {
+  margin: 0rem 0.466rem 0.95rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .spangrp-newsarticle-reading-time-icon-mask-group-LqK {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .divgrp-newsarticle-overline-Mpy .min-Gys {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-397b-b8R .link-zr1 .divgrp-newsteaser-textpart-2Xo .first-design-highlights-of-the-future-mini-models-Q4V {
+  max-width: 40.5rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 {
+  margin: 0rem 0.6rem 21.5rem 3.905rem;
+  width: calc(100% - 4.505rem);
+  height: 58.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 {
+  margin: 19.4rem 1.395rem 18.6rem 0rem;
+  width: 43.9rem;
+  height: calc(100% - 38rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o {
+  margin: 0rem 0.25rem 3.2rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .innovation-gw7 {
+  margin-right: 0.681rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .spangrp-newsarticle-delimiter-nDT {
+  margin: 0rem 0.102rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .spangrp-newsarticle-delimiter-nDT .item--VtZ {
+  margin-right: 0.867rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .spangrp-newsarticle-delimiter-nDT .item-11042023-pR3 {
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .item--wkZ {
+  margin-right: 0.755rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .spangrp-newsarticle-reading-time-icon-mask-group-seD {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsarticle-overline-Z5o .min-bq7 {
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsteaser-textpart-jwK {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsteaser-textpart-jwK .always-at-the-highest-level-Hhw {
+  margin: 0rem 0.005rem 0.6rem 0rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .auto-group-przs-SG5 .divgrp-newsteaser-textpart-jwK .nowadays-vehicles-without-driver-assistance-systems-that-enable-automated-driving-and-parking-are-simply-unimaginable-the-bmw-group-is-driving-these-innovations-forward-iYM {
+  max-width: 43.9rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .link-iL5 .x854fasvisualv2jpg-LZj {
+  width: 84rem;
+  height: 58.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/x854fasvisualv2jpg.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y {
+  margin: 0rem 0rem 3.3rem 1.6rem;
+  width: calc(100% - 1.6rem);
+  height: 60.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd {
+  box-sizing: border-box;
+  padding: 0.5rem 3.2rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f {
+  margin-right: 1.4rem;
+  box-sizing: border-box;
+  padding-bottom: 0.5rem;
+  width: 46.2rem;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .x854headercircularrepublic-fullsizejpg-D1F {
+  margin-bottom: 4.9rem;
+  width: 45.7rem;
+  height: 29.8rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/x854headercircularrepublic-fullsizejpg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db {
+  margin-bottom: 2.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .sustainability-xsw {
+  margin-right: 2.247rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .spangrp-newsarticle-delimiter-HfK {
+  margin: 0rem 1.564rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .spangrp-newsarticle-delimiter-HfK .item--2N1 {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .spangrp-newsarticle-delimiter-HfK .item-05042023-8R3 {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .item--G1T {
+  margin: 0.05rem 0.194rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .spangrp-newsarticle-reading-time-icon-mask-group-NKP {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .divgrp-newsarticle-overline-2Db .min-hcZ {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-U3f .divgrp-newsteaser-textpart-GVK .we-can-only-solve-the-challenges-of-our-time-together-Sa9 {
+  max-width: 30.7rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd {
+  width: 35.6rem;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .tk65976jpg-VoK {
+  margin-bottom: 1.7rem;
+  width: 35.5rem;
+  height: 29.1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/tk65976jpg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH {
+  margin-bottom: 2.381rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .company-6o7 {
+  margin-right: 1.447rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .spangrp-newsarticle-delimiter-dY9 {
+  margin: 0rem 1.114rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .spangrp-newsarticle-delimiter-dY9 .item--ZRo {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .spangrp-newsarticle-delimiter-dY9 .item-15032023-tDB {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .item--cey {
+  margin: 0.05rem 0.194rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .spangrp-newsarticle-reading-time-icon-mask-group-sL1 {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .divgrp-newsarticle-overline-ZYH .min-oDf {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .auto-group-u1j3-jt1 {
+  width: 100%;
+  height: 17.419rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .auto-group-u1j3-jt1 .profitable-growth-expected-for-2023-h49 {
+  width: 26.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2137931298;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .auto-group-au4u-wJd .link-LQd .divgrp-newsteaser-textpart-RBB .auto-group-u1j3-jt1 .the-bmw-group-closes-the-2022-financial-year-with-all-time-highs-for-sales-and-profitability-electric-vehicles-and-the-upper-premium-segment-will-be-the-main-growth-drivers-in-2023-oN5 {
+  width: 35.6rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 6.419rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 {
+  width: 45.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .x854076onlocationbmwix5hydrogenantwerpjpg-zSZ {
+  margin-bottom: 1.781rem;
+  width: 45.2rem;
+  height: 37.319rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/x854076onlocationbmwix5hydrogenantwerpjpg.png');
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ {
+  margin-bottom: 2.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .innovation-kq3 {
+  margin-right: 1.581rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .spangrp-newsarticle-delimiter-gyb {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .spangrp-newsarticle-delimiter-gyb .item--pa1 {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .spangrp-newsarticle-delimiter-gyb .item-27022023-xAR {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .item--UPf {
+  margin: 0.05rem 0.194rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .spangrp-newsarticle-reading-time-icon-mask-group-mNm {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .divgrp-newsarticle-overline-1cZ .min-VZf {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK {
+  width: 100%;
+  height: 16.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .divgrp-h2-NtM {
+  width: 38.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .divgrp-h2-NtM .launch-of-the-bmw-KYh {
+  width: 27.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2137931298;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .divgrp-h2-NtM .i-EvZ {
+  width: 0.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: lowercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .divgrp-h2-NtM .x5-hydrogen-6hs {
+  width: 17.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.3rem;
+  display: flex;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2137931298;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .divgrp-h2-NtM .pilot-fleet-nah {
+  width: 15.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 3.2rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-3mky-S6y .link-SA9 .divgrp-newsteaser-textpart-FtH .auto-group-mgb7-RTK .after-four-years-in-development-the-first-hydrogen-operated-bmw-ix5-hydrogen-models-are-hitting-the-roads-this-vehicle-and-development-project-is-entering-an-important-phase-practical-operation-gvy {
+  width: 45.8rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 5.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb {
+  margin: 0rem 0.6rem 0rem 1.6rem;
+  width: calc(100% - 2.2rem);
+  height: 62.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf {
+  box-sizing: border-box;
+  padding-right: 1.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 {
+  margin-right: 1.3rem;
+  width: 42.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .riotintonewssiteteaserpng-vcM {
+  margin-bottom: 1.8rem;
+  width: 42.3rem;
+  height: 37.363rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/riotintonewssiteteaserpng.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs {
+  box-sizing: border-box;
+  padding-bottom: 0.318rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 {
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .sustainability-Sj7 {
+  margin-right: 2.247rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .spangrp-newsarticle-delimiter-yU9 {
+  margin: 0rem 1.48rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .spangrp-newsarticle-delimiter-yU9 .item--Hjj {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .spangrp-newsarticle-delimiter-yU9 .item-20022023-ayj {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .item--tjX {
+  margin: 0.05rem 0.194rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .spangrp-newsarticle-reading-time-icon-mask-group-pNH {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .divgrp-newsarticle-overline-JN1 .min-who {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .auto-group-n3jb-MBs .light-weight-big-impact-tN9 {
+  display: flex;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.303703732;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-yh7 .divgrp-newsteaser-textpart-CJy .a-revolutionary-aluminium-production-process-is-helping-reduce-carbon-emissions-by-70-per-cent-compared-to-conventional-processes-PJu {
+  max-width: 42.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .x854p90441977fully-electric-truckjpg-1bB {
+  margin-bottom: 1.837rem;
+  width: 44.5rem;
+  height: 37.363rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/x854p90441977fully-electric-truckjpg.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R {
+  width: 41.917rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 {
+  box-sizing: border-box;
+  padding-bottom: 1.556rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ {
+  margin-bottom: 2.381rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .sustainability-KkH {
+  margin-right: 2.247rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .spangrp-newsarticle-delimiter-enZ {
+  margin: 0rem 1.088rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .spangrp-newsarticle-delimiter-enZ .item--BnV {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .spangrp-newsarticle-delimiter-enZ .item-13022023-6eZ {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .item--EEy {
+  margin: 0.05rem 0.193rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .spangrp-newsarticle-reading-time-icon-mask-group-xRs {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .divgrp-newsarticle-overline-CvZ .min-gsf {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .auto-group-4a7f-eu3 .more-sustainable-logistics-at-the-bmw-group-E8V {
+  max-width: 40.1rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .divgrp-text-Y9B {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .divgrp-text-Y9B .co-gFP {
+  margin: 0rem 0.169rem 0.131rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .divgrp-text-Y9B .subscript-2-o57 {
+  margin-right: 0.048rem;
+  display: flex;
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .auto-group-gxi9-3Hf .link-G7o .divgrp-newsteaser-textpart-78R .divgrp-text-Y9B .reduction-and-resource-efficiency-drive-the-vision-forwards-gub {
+  margin-bottom: 0.131rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .bmwteaserbildv031280x854png-vJ9 {
+  margin-bottom: 1.837rem;
+  width: 42.2rem;
+  height: 37.363rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/bmwteaserbildv031280x854png.png');
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 {
+  width: 37.2rem;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm {
+  margin-bottom: 0.631rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .company-gwX {
+  margin-right: 1.447rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .spangrp-newsarticle-delimiter-RPK {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .spangrp-newsarticle-delimiter-RPK .item--x8M {
+  margin-right: 0.567rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .spangrp-newsarticle-delimiter-RPK .item-03022023-tGu {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .item--cyb {
+  margin: 0.05rem 0.194rem 0rem 0rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .spangrp-newsarticle-reading-time-icon-mask-group-kK7 {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .divgrp-newsarticle-overline-mJm .min-s8q {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #666666;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .auto-group-elnz-Pcy {
+  width: 100%;
+  height: 20.869rem;
+  position: relative;
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .auto-group-elnz-Pcy .bmw-to-build-neue-klasse-in-mexico-from-2027-weV {
+  width: 37.2rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2571428844;
+  text-transform: uppercase;
+  color: #494949;
+  font-family: Tahoma, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .divgrp-newsfilter-result-area-2bo .auto-group-xr9k-8Rb .link-xcD .divgrp-newsteaser-textpart-Qj7 .auto-group-elnz-Pcy .the-bmw-group-is-investing-millions-to-make-its-plant-in-san-luis-potos-mexico-ready-for-the-neue-klasse-accelerating-the-production-of-pioneering-electric-vehicles-eJ1 {
+  width: 34.7rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 9.869rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.4666666667;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+}
+.frame-X2u .auto-group-i2ht-kb7 .main-Hqw .divcomponent-placeholder-jdP .link-TmF {
+  margin-left: 7rem;
+  width: 0.6rem;
+  height: 5.6rem;
+  background-color: #6f6f6f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footer-top-section-Gih {
+  margin-bottom: 3.8rem;
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam {
+  margin: 0rem 4.08rem 6.594rem 10.8rem;
+  width: calc(100% - 14.88rem);
+  height: 12.706rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj {
+  box-sizing: border-box;
+  padding: 0.25rem 30.7rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-dSm {
+  margin-right: 28rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-dSm .item-link-bmw-aN1 {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-dSm .item-link-mini-hSd {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-dSm .item-link-rolls-royce-motor-cars-Mn5 {
+  margin-bottom: 1.618rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-dSm .item-link-bmw-motorrad-5CH {
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-auj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-auj .item-link-bmw-group-plants-jXj {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-auj .item-link-bmw-welt-rMT {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-auj .item-link-bmw-museum-yws {
+  margin-bottom: 1.618rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-vd9f-6hj .list-auj .item-link-bmw-group-classic-uqX {
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h {
+  width: 42.72rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-zc5 {
+  width: 19.9rem;
+  height: 12.456rem;
+  position: absolute;
+  left: 0;
+  top: 0.25rem;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-zc5 .item-link-bmw-m-driving-experience-Voj {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-zc5 .item-link-bmw-group-pressclub-pr1 {
+  margin-bottom: 1.619rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-zc5 .item-link-bmw-group-financial-services-kjf {
+  margin-bottom: 1.618rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-zc5 .item-link-bmw-group-careers-Euj {
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 {
+  width: 23.52rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 .item-link-linkedin24socialmediadefaultsvg-W6Z {
+  margin-right: 2.88rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 .item-link-youtube24socialmediadefaultsvg-obT {
+  margin-right: 2.88rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 .item-link-instagram24socialmediadefaultsvg-XnM {
+  margin-right: 2.88rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 .item-link-twitter24socialmediadefaultsvg-4XP {
+  margin-right: 2.88rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footercontents-Bam .auto-group-bqt7-F8h .list-Nm3 .item-link-facebook24socialmediadefaultsvg-zfw {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX {
+  box-sizing: border-box;
+  padding: 1.009rem 10.8rem 0.991rem 10.8rem;
+  width: 100%;
+  height: 3.9rem;
+  background-color: #eeefea;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 {
+  width: 75.361rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-sitemap-YL5 {
+  margin-right: 6.614rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-legal-disclaimer-Txq {
+  margin-right: 6.972rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-cookies-a1s {
+  margin-right: 6.581rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-imprint-GQV {
+  margin-right: 6.258rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-contact-aRB {
+  margin-right: 6.536rem;
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-X2u .auto-group-i2ht-kb7 .section-footer-veq .divgrp-footerpanel-tFX .list-Cn1 .item-link-data-protection-uyF {
+  display: flex;
+  font-size: 1.5008rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #494949;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
